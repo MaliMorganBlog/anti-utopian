@@ -1,5 +1,15 @@
-To read
--------
+Individuals
+-----------
+János Kornai
+Oskar Lange
+
+Books
+-----
+The Mathematical Revolution in Soviet Economics, Alfred Zauberman
+Computers and Economic Planning: the Soviet Experience, Martin Cave
+
+Online Resources
+----------------
 - http://triceratops.brynmawr.edu/dspace/bitstream/handle/10066/5005/Sachs_4_1.pdf?sequence=1
 - https://en.wikipedia.org/wiki/Supply_chain_management_software
 - http://ocean.st.usm.edu/~w300388/Second.html#books
